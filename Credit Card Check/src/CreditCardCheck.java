@@ -7,7 +7,7 @@ public class CreditCardCheck
 
 		public static void main(String[] args) throws FileNotFoundException
 			{
-				Scanner file = new Scanner (new File("CreditCardNumbers.txt"));
+				Scanner file = new Scanner (new File("ccTest.txt"));
 				
 				int counter = 0;
 				
